@@ -1,7 +1,5 @@
 # hello-world
 hello-world repository for tests
+On change l'utilité de ce répertoire pour en faire le test pour OpenClassRoom.
 
-these are few new lines
-that can be use to have an history of commits.
-
-usefull to make tests on github ^^
+C'est tout aussi utile !
